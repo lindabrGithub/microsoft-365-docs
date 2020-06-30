@@ -238,6 +238,8 @@ You can choose to apply retention labels to content automatically when that cont
 > [!TIP]
 > See [Manage the lifecycle of SharePoint documents with retention labels](auto-apply-retention-labels-scenario.md) for a detailed scenario about using managed properties in SharePoint to auto-apply retention labels and implement event-driven retention.
 
+Note:: “You do not need to publish labels to the SharePoint site to have auto-labels applied”.
+
 ## Applying a default retention label to all content in a SharePoint library, folder, or document set
 
 In addition to enabling people to apply a retention label to individual documents, you can also apply a default retention label to a SharePoint library, folder, or document set, so that all documents in that location get the default retention label.
